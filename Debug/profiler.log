@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  HRProfiler.cpp
+C:\Users\karsa\Desktop\프로파일러\HRProfiler.cpp(77,20): warning C4477: 'fwprintf' : 서식 문자열 '%9d'에 'int' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'double'입니다.
+  main.cpp
+C:\Users\karsa\Desktop\프로파일러\main.cpp(11,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  profiler.vcxproj -> C:\Users\karsa\Desktop\프로파일러\Debug\profiler.exe
